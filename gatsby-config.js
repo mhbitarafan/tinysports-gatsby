@@ -5,5 +5,16 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  plugins: [
+    {
+      resolve: 'gatsby-source-strapi',
+      options: {
+        apiURL: 'http://localhost:1337',
+        contentTypes: [
+          'product'
+        ],
+        queryLimit: 1000
+      }
+    }
+  ]
 }
