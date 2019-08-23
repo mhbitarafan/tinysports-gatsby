@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-strapi',
       options: {
-        apiURL: 'http://87.107.186.149:1337',
+        apiURL: 'http://pc.tinysports.ir:1337',
         contentTypes: [
           'product'
         ],
