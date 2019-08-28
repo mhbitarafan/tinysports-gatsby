@@ -34,10 +34,9 @@ a:hover {
 .header {
   top:0;
   position: sticky!important;
-  box-shadow: 0px 1px 9px -1px #4e00ff;
+  box-shadow: 0px 1px 9px -1px #000000;
   z-index: 2;
-  /* background: linear-gradient(45deg, rgb(40, 23, 76),rgb(232, 90, 94)) */
-  background: linear-gradient(#863a86,#4c0e99);
+  background: linear-gradient(100deg, rgba(79, 79, 79, 0.07) 0%, rgba(79, 79, 79, 0.07) 50%,rgba(131, 131, 131, 0.07) 50%, rgba(131, 131, 131, 0.07) 100%),linear-gradient(88deg, rgba(197, 197, 197, 0.03) 0%, rgba(197, 197, 197, 0.03) 50%,rgba(184, 184, 184, 0.03) 50%, rgba(184, 184, 184, 0.03) 100%),linear-gradient(29deg, rgba(211, 211, 211, 0.03) 0%, rgba(211, 211, 211, 0.03) 50%,rgba(4, 4, 4, 0.03) 50%, rgba(4, 4, 4, 0.03) 100%),linear-gradient(162deg, rgba(128, 128, 128, 0.1) 0%, rgba(128, 128, 128, 0.1) 50%,rgba(43, 43, 43, 0.1) 50%, rgba(43, 43, 43, 0.1) 100%),linear-gradient(221deg, rgba(251, 251, 251, 0.02) 0%, rgba(251, 251, 251, 0.02) 50%,rgba(191, 191, 191, 0.02) 50%, rgba(191, 191, 191, 0.02) 100%),linear-gradient(176deg, rgba(74, 74, 74, 0.07) 0%, rgba(74, 74, 74, 0.07) 50%,rgba(198, 198, 198, 0.07) 50%, rgba(198, 198, 198, 0.07) 100%),linear-gradient(236deg, rgba(234, 234, 234, 0.03) 0%, rgba(234, 234, 234, 0.03) 50%,rgba(72, 72, 72, 0.03) 50%, rgba(72, 72, 72, 0.03) 100%),linear-gradient(115deg, rgba(87, 87, 87, 0.08) 0%, rgba(87, 87, 87, 0.08) 50%,rgba(145, 145, 145, 0.08) 50%, rgba(145, 145, 145, 0.08) 100%),linear-gradient(90deg, rgb(23, 169, 215),rgb(236, 81, 93))
 }
 .product-card {
   /* box-shadow: 0 3px 6px rgba(0, 0, 0, 0.12), 0 3px 6px rgba(0,0,0,0.12); */
@@ -74,7 +73,7 @@ a:hover {
 }
 .sidebar-default{
   border: 1px solid gainsboro;
-  border-top: 5px solid #8600df;
+  border-top: 4px solid #d22730;
 }
 .brand-link {
   text-align: center;
@@ -90,4 +89,11 @@ a:hover {
 }
 .curr_page{
   border: 1px solid grey;
+}
+.pagination-wrapper{
+  border-bottom: 1px solid grey;
+  border-top: 1px solid grey;
+  position: sticky;
+  bottom: 0;
+  background: rgb(190, 190, 190)
 }

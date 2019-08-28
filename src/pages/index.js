@@ -21,7 +21,7 @@ export default ({ data }) => {
           <div className="position-sticky d-flex flex-column p-0" style={{top: '152px'}}>
             <div>
             <div className="row sidebar-default">
-              <div className="col-12 py-2 mb-2">برندها</div>
+              <div className="col-12 py-2 mb-2"><span class="rounded bg-danger text-white px-3">برندها</span></div>
               <div className="col-12 col-md-6 brand-link"><Link to="" className="">دونیک</Link></div>
               <div className="col-12 col-md-6 brand-link"><Link to="" className="">باترفلای</Link></div>
               <div className="col-12 col-md-6 brand-link"><Link to="" className="">کورنلیو</Link></div>
@@ -29,7 +29,7 @@ export default ({ data }) => {
               </div>  
               </div>
               <div className="row mt-3 sidebar-default">
-              <div className="col-12 py-2 mb-2">قیمت</div>
+              <div className="col-12 py-2 mb-2"><span class="rounded bg-danger text-white px-3">قیمت</span></div>
                 <div className="col-12 p-2"><input type="text" class="form-control" name="" id="" aria-describedby="helpId" placeholder="حداقل قیمت" /></div>
                 <div className="col-12 p-2"><input type="text" class="form-control" name="" id="" aria-describedby="helpId" placeholder="حداکثر قیمت" /></div>
               </div> 
@@ -40,7 +40,7 @@ export default ({ data }) => {
             let title
             let price
             if(document.node.frontmatter.stock_status == "instock"){
-              price = <h4 className="product-price col-auto w-100 m-0 text-center py-3 align-self-center">{document.node.frontmatter.price} تومان</h4>
+              price = <h4 className="product-price col-auto w-100 m-0 text-center py-3 align-self-center">{numberWithCommas(document.node.frontmatter.price)} تومان</h4>
             } else {
               price = <h4 className="product-price col-auto w-100 m-0 text-center py-3 align-self-center">ناموجود</h4>
             }
@@ -94,7 +94,7 @@ export default ({ data }) => {
             )
           })}
           <div className=" w-100 text-center p-2 mb-4">
-            <Link to="products/2" className="shadow btn btn-outline-danger p-2 mb-4">محصولات بیشتر</Link>
+            <Link to="products/1" className="shadow btn btn-outline-danger p-2 mb-4">محصولات بیشتر</Link>
             </div>
         </div>
         </div>
@@ -112,7 +112,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/(products)/.*\\\\.md$/" } }
-      limit: 18
+      limit: 3
     ) {
       totalCount
       edges {

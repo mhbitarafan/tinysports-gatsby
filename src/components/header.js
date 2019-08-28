@@ -42,7 +42,7 @@ const Header = () => {
             </li>
           </ul>
       </nav>
-      <div class="container mt-3 pr-4 pb-4 nav-links">
+      <div class="container mt-2 pr-4 pb-3 nav-links">
     <Link className="text-white px-3 py-1 mr-2" to="">پینگ پنگ</Link>
     <Link className="text-white px-3 py-1 mr-2" to="">بدمینتون</Link>
     <Link className="text-white px-3 py-1 mr-2" to="">بیلیارد و ایرهاکی</Link>

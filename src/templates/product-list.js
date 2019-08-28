@@ -21,7 +21,7 @@ export default class ProductList extends React.Component {
             let title
             let price
             if(node.frontmatter.stock_status == "instock"){
-              price = <h4 className="product-price col-auto w-100 m-0 text-center py-3 align-self-center">{node.frontmatter.price} تومان</h4>
+              price = <h4 className="product-price col-auto w-100 m-0 text-center py-3 align-self-center">{numberWithCommas(node.frontmatter.price)} تومان</h4>
             } else {
               price = <h4 className="product-price col-auto w-100 m-0 text-center py-3 align-self-center">ناموجود</h4>
             }
@@ -74,17 +74,17 @@ export default class ProductList extends React.Component {
                   </div>
               )
         })}
-        <div className=" w-100 text-center p-3 m-0 mb-4 border-top border-bottom row justify-content-center align-content-center">
-        {has_next && (<Link to={`products/${current_page+1}`} className="btn btn-outline-danger rounded p-3 col-auto">
+        </div>
+        </div>
+        <div className=" w-100 text-center p-2 m-0 pagination-wrapper row justify-content-center align-content-center">
+        {has_next && (<Link to={`products/${current_page+1}`} className="btn btn-light rounded p-2 col-auto">
         <span><i class="fa fa-chevron-right ml-2 mr-1 p-0 align-middle" aria-hidden="true"></i></span><span>صفحه بعد </span>
         </Link>)}
-            <span className="mx-2 curr_page bg-white rounded text-black px-4 py-3 col-auto">صفحه {current_page}</span>
-            {has_prev && (<Link to={`products/${current_page-1}`} className="btn btn-outline-danger rounded p-3 col-auto">
+            <span className="mx-2 curr_page bg-white rounded text-black p-2 col-auto">صفحه {current_page}</span>
+            {has_prev && (<Link to={`products/${current_page-1}`} className="btn btn-light rounded p-2 col-auto">
                 <span>صفحه قبل</span><span><i class="fa fa-chevron-left mr-2 ml-1 p-0 align-middle" aria-hidden="true"></i></span>
                 </Link>)}
             </div>
-        </div>
-        </div>
         </div>
     )
   }
