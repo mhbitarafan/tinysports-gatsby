@@ -5,16 +5,19 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: `تاینی اسپرت | `,
+  },
   plugins: [
     {
-      resolve: 'gatsby-source-strapi',
+      resolve: `gatsby-source-filesystem`,
       options: {
-        apiURL: 'http://pc.tinysports.ir:1337',
-        contentTypes: [
-          'product'
-        ],
-        queryLimit: 1000
-      }
-    }
+        name: `markdown-pages`,
+        path: `${__dirname}/src/markdown-pages`,
+      },
+    },
+    `gatsby-transformer-remark`,
+    'gatsby-plugin-react-helmet',
+    `gatsby-plugin-sass`,
   ]
 }

@@ -1,0 +1,10 @@
+.image {
+  height: auto;
+  width: 100%;
+  object-fit: cover;
+}
+.short-description {
+  border-radius: 10px;
+  line-height: 2rem;
+  /* box-shadow: 0 3px 9px -6px #c5c5c5; */
+}

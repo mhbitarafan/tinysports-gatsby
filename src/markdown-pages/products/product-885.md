@@ -1,0 +1,165 @@
+---
+_links:
+  collection:
+  - {href: 'https://tinysports.ir/wp-json/wc/v3/products'}
+  self:
+  - {href: 'https://tinysports.ir/wp-json/wc/v3/products/439'}
+attributes:
+- id: 12
+  name: وزن
+  options: ['85']
+  position: 1
+  variation: false
+  visible: true
+- id: 1
+  name: تولید کننده
+  options: [دونیک (Donic)]
+  position: 2
+  variation: false
+  visible: true
+- id: 2
+  name: کشور سازنده
+  options: [آلمان]
+  position: 3
+  variation: false
+  visible: true
+- id: 3
+  name: سرعت
+  options: ['91']
+  position: 4
+  variation: false
+  visible: true
+- id: 4
+  name: کنترل
+  options: ['82.5']
+  position: 5
+  variation: false
+  visible: true
+- id: 5
+  name: احساس
+  options: ['91']
+  position: 6
+  variation: false
+  visible: true
+- id: 6
+  name: تعداد لایه
+  options: ['7']
+  position: 7
+  variation: false
+  visible: true
+- id: 7
+  name: نوع لایه
+  options: [تقریبا سفت]
+  position: 8
+  variation: false
+  visible: true
+- id: 8
+  name: نوع
+  options: [کربن دار]
+  position: 9
+  variation: false
+  visible: true
+- id: 9
+  name: گروه
+  options: ['OFF']
+  position: 10
+  variation: false
+  visible: true
+- id: 10
+  name: سطح بازی
+  options: [حرفه ای]
+  position: 11
+  variation: false
+  visible: true
+average_rating: '0.00'
+backordered: false
+backorders: 'no'
+backorders_allowed: false
+button_text: ''
+catalog_visibility: visible
+categories:
+- {id: 733, name: پینگ پنگ, slug: pingpong}
+- {id: 87, name: چوب راکت پینگ پنگ, slug: blades}
+- {id: 34, name: چوب دونیک (Donic), slug: donic-blades}
+cross_sell_ids: []
+date_created: '2016-07-22T15:52:29'
+date_created_gmt: '2016-07-22T11:22:29'
+date_modified: '2019-05-10T16:20:16'
+date_modified_gmt: '2019-05-10T11:50:16'
+date_on_sale_from: null
+date_on_sale_from_gmt: null
+date_on_sale_to: null
+date_on_sale_to_gmt: null
+default_attributes: []
+description: ''
+dimensions: {height: '', length: '', width: ''}
+download_expiry: -1
+download_limit: -1
+downloadable: false
+downloads: []
+external_url: ''
+featured: false
+grouped_products: []
+id: 439
+images:
+- {alt: '', date_created: '2016-07-22T20:21:37', date_created_gmt: '2016-07-22T06:51:37',
+  date_modified: '2016-07-22T20:21:37', date_modified_gmt: '2016-07-22T06:51:37',
+  id: 442, name: Donic Epox Carbotec-500&#215;500, src: 'https://tinysports.ir/wp-content/uploads/2016/07/Donic-Epox-Carbotec-500x500.jpg'}
+manage_stock: false
+menu_order: 63
+meta_data: []
+name: چوب دونیک پوکس کربوتک
+on_sale: false
+parent_id: 0
+permalink: https://tinysports.ir/product/epox-carbotec/
+price: '1989000'
+price_html: ناموجود
+purchasable: true
+purchase_note: ''
+rating_count: 0
+regular_price: '1989000'
+related_ids: [101, 437, 451, 104, 60]
+reviews_allowed: true
+sale_price: ''
+secondName: Donic Epox Carbotec
+shipping_class: ''
+shipping_class_id: 0
+shipping_required: true
+shipping_taxable: true
+short_description: '<p>رشته های کربن از لایه های کربن انعطاف
+  پذیری بیشتری داشته و به همین دلیل استفاده از
+  رشته های کربن در مغز این چوب باعث شده تا علاوه
+  بر بالا رفتن سرعت، انعطاف پذیری آن نیز به مقدار
+  قابل توجهی افزایش یابد. رشته های کربن &#8211; شیشه
+  در میان لایه های سفت این چوب قرار گرفته و باعث
+  شده تا سرعت آن بالا رود. تکنولوژی EPOX در داخل این
+  چوب باعث افزایش راحتی و یکنواختی چوب شده و همچنین
+  به کمک این تکنولوژی محدوده مرکز ثقل چوب (Sweet Spot)
+  افزایش یافته است. این چوب می تواند انتخابی مناسب
+  برای بازیکنان حمله ای که به پیچ و احساس نیز اهمیت
+  می دهند باشد. استفاده از رویه های Donic New Formula بر
+  روی این چوب توصیه می شود. بهترین انتخاب رویه
+  هایی هستند که اسفنج متوسط و نرمی دارند مانند
+  COPPA JO PLATIN SOFT و COPPA SILVER و SONEX JP GOLD . CARBON MIX IN EPOX STYLE&#8221;
+  ترکیبی جادویی با احساس فوق العاده و قدرتی وسوسه
+  انگیز&#8221;</p>
+
+  '
+sku: ''
+slug: epox-carbotec
+sold_individually: false
+status: publish
+stock_quantity: null
+stock_status: outofstock
+tags:
+- {id: 1170, name: چوب راکت پینگ پنگ دونیک, slug: '%da%86%d9%88%d8%a8-%d8%b1%d8%a7%da%a9%d8%aa-%d9%be%db%8c%d9%86%da%af-%d9%be%d9%86%da%af-%d8%af%d9%88%d9%86%db%8c%da%a9'}
+- {id: 1138, name: راکت پینگ پنگ دونیک, slug: '%d8%b1%d8%a7%da%a9%d8%aa-%d8%af%d9%88%d9%86%db%8c%da%a9'}
+tax_class: ''
+tax_status: taxable
+total_sales: 0
+type: simple
+upsell_ids: []
+variations: []
+virtual: false
+weight: ''
+---
