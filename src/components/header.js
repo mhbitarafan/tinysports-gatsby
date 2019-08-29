@@ -22,7 +22,7 @@ const Header = () => {
         ]}
       >
         <html lang="fa" dir="rtl" />
-        <base href="http://localhost:8000" />
+        <base href="" />
       </Helmet>
       <nav className="navbar navbar-expand-md navbar-dark container py-2">
         <Link className="navbar-brand" to="">
