@@ -9,6 +9,7 @@ _links:
 description: قیمت انواع چوب راکت پینگ پنگ کورنلیو با
   قیمت نمایندگی اصلی تهران و مشاوره تخصصی خرید
   چوب راکت پینگ پنگ کورنیلیو
+id: 242
 menu_order: 3
 name: چوب کورنلیو (Cornilleau)
 slug: cornilleau-blades

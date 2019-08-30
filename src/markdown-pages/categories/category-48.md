@@ -7,6 +7,7 @@ _links:
   up:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories/404'}
 description: ''
+id: 1004
 menu_order: 0
 name: راکت آماده آدیداس
 slug: addidas-pingpong-racket

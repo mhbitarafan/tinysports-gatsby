@@ -9,6 +9,7 @@ _links:
 description: قیمت انواع رویه راکت پینگ پنگ جاینت دراگون
   با قیمت نمایندگی اصلی تهران و مشاوره تخصصی خرید
   رویه راکت پینگ پنگ جاینت دراگون
+id: 130
 menu_order: 29
 name: رویه جاینت دراگون (Giant Dragon)
 slug: giantdragon-rubbers

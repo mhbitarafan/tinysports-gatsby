@@ -9,6 +9,7 @@ _links:
 description: قیمت انواع رویه راکت پینگ پنگ باترفلای
   با قیمت نمایندگی اصلی تهران و مشاوره تخصصی خرید
   رویه راکت پینگ پنگ باترفلای
+id: 152
 menu_order: 23
 name: رویه باترفلای (Butterfly)
 slug: butterfly-rubbers

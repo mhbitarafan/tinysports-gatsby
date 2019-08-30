@@ -7,6 +7,7 @@ _links:
   up:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories/87'}
 description: ''
+id: 1086
 menu_order: 0
 name: چوب جوو (Gewo)
 slug: gewo-blades

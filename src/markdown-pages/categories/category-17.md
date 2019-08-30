@@ -7,6 +7,7 @@ _links:
   up:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories/156'}
 description: ''
+id: 880
 menu_order: 40
 name: توپ پینگ پنگ تیبهار
 slug: tibhar-pingpong-ball

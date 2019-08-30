@@ -7,6 +7,7 @@ _links:
   up:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories/567'}
 description: ''
+id: 575
 menu_order: 73
 name: سری لایت (LIGHT SERIES)
 slug: '%d8%b3%d8%b1%db%8c-%d9%84%d8%a7%db%8c%d8%aa-light-series'

@@ -7,6 +7,7 @@ _links:
   up:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories/731'}
 description: ''
+id: 662
 menu_order: 77
 name: کفش
 slug: '%da%a9%d9%81%d8%b4'

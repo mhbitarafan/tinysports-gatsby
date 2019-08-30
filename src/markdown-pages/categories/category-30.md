@@ -7,6 +7,7 @@ _links:
   up:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories/167'}
 description: تور و گیره کورنیلیو
+id: 559
 menu_order: 45
 name: تور میز پینگ پنگ کورنلیو
 slug: cornilleau-tablenet

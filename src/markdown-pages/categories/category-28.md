@@ -8,6 +8,7 @@ _links:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories/733'}
 description: انواع تور و گیره پینگ پنگ با قیمت نمایندگی
   اصلی تهران
+id: 167
 menu_order: 44
 name: تور میز پینگ پنگ
 slug: pingpong-tablenet
