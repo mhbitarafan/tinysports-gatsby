@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -14,3 +15,4 @@ menu_order: 40
 name: توپ پینگ پنگ تیبهار
 parent: 156
 slug: tibhar-pingpong-ball
+---

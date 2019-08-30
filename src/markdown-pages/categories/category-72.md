@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -14,3 +15,4 @@ menu_order: 30
 name: سایر برندها
 parent: 117
 slug: other-brands
+---

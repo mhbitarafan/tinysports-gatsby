@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -12,3 +13,4 @@ menu_order: 66
 name: بدمینتون
 parent: 0
 slug: badminton
+---

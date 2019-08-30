@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -14,3 +15,4 @@ menu_order: 77
 name: کفش
 parent: 731
 slug: '%da%a9%d9%81%d8%b4'
+---

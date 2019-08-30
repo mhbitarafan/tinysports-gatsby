@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -16,3 +17,4 @@ menu_order: 16
 name: چوب تی اس پی (TSP)
 parent: 87
 slug: tsp-blades
+---

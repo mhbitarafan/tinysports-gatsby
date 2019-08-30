@@ -19,16 +19,13 @@ collections:
           - {label: options, name: options, widget: string}
           - {label: visible, name: visible, widget: boolean}
   - name: categories
-    label: category
+    label: Category
     folder: src/markdown-pages/categories
     create: true
-    identifier_field: slug
-    slug:
-      encoding: "ascii"
-      clean_accents: true
+    # identifier_field: slug
     fields:
       - {label: name, name: name, widget: string}
-      - {label: parent, name: parent, widget: relation, collection: categories, searchFields: ["name"], displayFields: ["name"], required: false}
-      - {label: slug, name: name, widget: string}
+      # - {label: parent, name: parent, widget: relation, collection: categories, searchFields: ["name"], displayFields: ["name"], required: false}
+      - {label: slug, name: slug, widget: string}
       - {label: description, name: description, widget: text, required: false}
       - {label: image, name: image, widget: image, required: false}

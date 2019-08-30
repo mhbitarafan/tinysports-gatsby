@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -14,3 +15,4 @@ menu_order: 32
 name: راکت آماده دی اچ اس
 parent: 404
 slug: dhs-pingpong-racket
+---

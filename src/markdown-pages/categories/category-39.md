@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -16,3 +17,4 @@ menu_order: 11
 name: چوب دبل هپینس - دی اچ اس
 parent: 87
 slug: dhs-blades
+---

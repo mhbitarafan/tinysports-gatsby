@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -16,3 +17,4 @@ menu_order: 10
 name: چوب باترفلای (Butterfly)
 parent: 87
 slug: butterfly-blades
+---

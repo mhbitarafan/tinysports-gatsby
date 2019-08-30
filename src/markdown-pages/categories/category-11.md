@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -13,3 +14,4 @@ menu_order: 1
 name: پینگ پنگ
 parent: 0
 slug: pingpong
+---

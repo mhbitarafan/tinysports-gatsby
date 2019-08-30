@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -14,3 +15,4 @@ menu_order: 48
 name: چوب دست دوم راکت پینگ پنگ
 parent: 439
 slug: second-hand-pingpong-blades
+---

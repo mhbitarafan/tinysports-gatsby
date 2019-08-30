@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -14,3 +15,4 @@ menu_order: 43
 name: توپ پینگ پنگ ژیوم
 parent: 156
 slug: xiom-pingpong-ball
+---

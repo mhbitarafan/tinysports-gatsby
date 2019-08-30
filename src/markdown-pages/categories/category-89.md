@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -12,3 +13,4 @@ menu_order: 83
 name: میز ایرهاکی و بیلیارد
 parent: 0
 slug: billiard
+---

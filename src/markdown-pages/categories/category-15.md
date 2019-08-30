@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -17,3 +18,4 @@ menu_order: 35
 name: توپ پینگ پنگ
 parent: 733
 slug: pingball
+---

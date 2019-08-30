@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -16,3 +17,4 @@ menu_order: 0
 name: رویه نیتاکو (Nittaku)
 parent: 117
 slug: nittaku-rubbers
+---

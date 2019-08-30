@@ -1,3 +1,4 @@
+---
 _links:
   collection:
   - {href: 'https://tinysports.ir/wp-json/wc/v3/products/categories'}
@@ -14,3 +15,4 @@ menu_order: 39
 name: توپ پینگ پنگ دبل هپینس - دی اچ اس
 parent: 156
 slug: dhs-pingpong-ball
+---
