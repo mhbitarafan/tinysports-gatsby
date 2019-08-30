@@ -1,6 +1,6 @@
 ---
 name: رویه یینهه مون اسپید
-secondName: Yinhe Moon Speed
+secondName: Yinhe Moon Speed2
 attributes:
   - name: کشور سازنده
     options:
