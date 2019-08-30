@@ -25,7 +25,8 @@ collections:
     identifier_field: slug
     fields:
       - {label: name, name: name, widget: string}
-      - {label: parent, name: parent, widget: relation, collection: categories, searchFields: ["name"], valueField: "name", displayFields: ["name"], required: false}
+      - {label: id, name: id, widget: number }
+      - {label: parent, name: parent, widget: relation, collection: categories, searchFields: ["name"], valueField: "id", displayFields: ["name"], required: false}
       - {label: slug, name: slug, widget: string}
       - {label: description, name: description, widget: text, required: false}
       - {label: image, name: image, widget: image, required: false}
