@@ -2,7 +2,10 @@ import React from "react"
 import { graphql } from "gatsby"
 import Header from "../components/header.js"
 import productPage from "./product-single.module.css"
-// import 'bulma/sass/components/tabs.sass'
+
+function numberWithCommas(x) {
+  return x.replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+}
 
 export default ({ data }) => {
   const product = data.markdownRemark
@@ -11,7 +14,7 @@ export default ({ data }) => {
   let price
 
   if(product.frontmatter.stock_status === "instock"){
-    price = <h4 className="text-danger">{product.frontmatter.price} تومان</h4>
+    price = <h4 className="text-danger">{numberWithCommas(product.frontmatter.price)} تومان</h4>
   } else {
     price = <h4 className="text-danger">ناموجود</h4>
   }
