@@ -1,6 +1,6 @@
 ---
 name: توپ بسکتبال
-parent: توپ
+parent: ''
 slug: basketball-ball
 description: قیمت توپ بسکتبال
 ---
