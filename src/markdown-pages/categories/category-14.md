@@ -10,5 +10,4 @@ description: قیمت توپ بسکتبال
 id: 902
 name: توپ بسکتبال
 slug: basketball-ball
-description: قیمت توپ بسکتبال
 ---
